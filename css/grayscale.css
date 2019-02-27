@@ -229,6 +229,10 @@
   border: 0;
 }
 
+.send {
+  margin-top: 5%;
+}
+
 .contact-section {
   padding: 5rem 0 0;
 }
